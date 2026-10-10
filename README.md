@@ -13,7 +13,7 @@ I enjoy learning by building, understanding how systems work under the hood, and
 - 📐 Learning system design to build robust and scalable applications
 - 🌱 Continuously learning, building, debugging, and improving
 
-📄 **[View / Download My Resume](./Resume(5).pdf)**
+📄 **[View / Download My Resume](./resume.pdf)**
 
 ---
 
